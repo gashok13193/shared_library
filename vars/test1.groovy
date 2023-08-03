@@ -1,3 +1,3 @@
 def call(){
-  'This is a test groovy'
+  sh 'This is a test groovy'
 }
